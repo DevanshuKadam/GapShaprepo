@@ -40,7 +40,7 @@ npm install
 # Backend (create .env file in backend directory)
 contents in env:
 - PORT=5001
-- MONGO_URI=mongodb+srv://Deva:deva123@gapshap.nhbi3.mongodb.net/gapshap_db?retryWrites=true&w=majority&appName=Gapshap
+- MONGO_URI=your_mongodb_uri
 - JWT_SECRET=your_key
 - NODE_ENV=development
 - CLOUDINARY_CLOUD_NAME=your_cloudinary_name
