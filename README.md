@@ -39,13 +39,13 @@ npm install
 
 # Backend (create .env file in backend directory)
 contents in env:
-PORT=5001
-MONGO_URI=mongodb+srv://Deva:deva123@gapshap.nhbi3.mongodb.net/gapshap_db?retryWrites=true&w=majority&appName=Gapshap
-JWT_SECRET=your_key
-NODE_ENV=development
-CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_cloudinary_api_key
-CLOUDINARY_API_SECRET=your_cloudinary_api_scret
+- PORT=5001
+- MONGO_URI=mongodb+srv://Deva:deva123@gapshap.nhbi3.mongodb.net/gapshap_db?retryWrites=true&w=majority&appName=Gapshap
+- JWT_SECRET=your_key
+- NODE_ENV=development
+- CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+- CLOUDINARY_API_KEY=your_cloudinary_api_key
+- CLOUDINARY_API_SECRET=your_cloudinary_api_scret
 
 # Step 4: Running the Application
 
